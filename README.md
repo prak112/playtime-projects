@@ -1,5 +1,7 @@
-# Welcome to GitHub Desktop!
+# Projects 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Projects worked upon to _practice and build_ different skill sets, such as:
+ *Probabilistic programming*, 
+ *testing models with clean datasets*, 
+ 
+and several other new concepts which are implemented as I learn
